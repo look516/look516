@@ -1,5 +1,3 @@
-# 조아영
-
 <!--
 시스템 구축 해보고 싶습니다.
 
@@ -19,8 +17,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
-<!--
-뱃지 사이트 참고 (최신 기술용)
+- 뱃지 사이트 참고 (최신 기술용)
 https://github.com/Ileriayo/markdown-badges
 -->
 
