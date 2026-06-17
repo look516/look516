@@ -122,5 +122,5 @@ PESSIMISTIC_WRITE (비관적 락)로 중복 배정 시나리오를 방지하고,
 
 ## 📫 Contact
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@iicarus)
-[![Gmail](https://img.shields.io/badge/Gmail-caybnow@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:caybnow@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-caybnow@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](정비중) -->
